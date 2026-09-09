@@ -1,3 +1,7 @@
+## Parcours français
+
+Lire le [parcours Across Protocol](docs/fr/README.md) : dix chapitres sur SpokePool, HubPool, relayeurs et règlement.
+
 ![Across-logo](https://raw.githubusercontent.com/across-protocol/across-frontend/65abd7772704a9ec243fd370f9e8e76322f0905b/src/assets/logo.svg)
 
 Contains smart contract suite to enable instant token transfers between any two networks. Relays are backstopped by
